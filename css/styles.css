@@ -2,6 +2,10 @@
 h1 {
 	color: #6699A9;
 	font-family: 'Lobster', cursive;
+	background: red;
+	width: 300px;
+	padding: 10px;
+	border: 10px solid black;
 }
 
 body{
