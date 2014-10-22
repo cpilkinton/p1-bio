@@ -1,18 +1,42 @@
 /* Your Website Styles */
 h1 {
-	color: #6699A9;
-	font-family: 'Lobster', cursive;
-	background: red;
-	width: 300px;
-	padding: 10px;
-	border: 10px solid black;
+	color: #fff;
+	font-family: 'Josefin Slab', serif;
 }
 
 body{
-	background: #eee;
+	background: url(../img/bg.png) repeat;
+	color: #fff;
 }
+
+#profile-pic {
+	width: 25%;
+	border-radius: 25%;
+	padding: 24px;
+	float: left;
+}
+
+#first-paragraph {
+	background: #0D7291;
+	padding: 24px;
+	border-radius: 25%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* Show Grid */
 .showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+	/*background: url("../img/grid-bg.png") repeat-y;*/
 }
