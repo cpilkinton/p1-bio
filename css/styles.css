@@ -1,27 +1,39 @@
 /* Your Website Styles */
-h1 {
-	color: #fff;
-	font-family: 'Josefin Slab', serif;
+header {
+	background: #1A4960;
+	color: #CFCFCF;
+	font-family: 'Philosopher', sans-serif;
+	font-size: 25px;
+	font-style: bold;
+	text-align: right;
+	margin: 0 0 0 -500px;
+	padding: 0 10px 0 0;
 }
 
-body{
+body {
 	background: url(../img/bg.png) repeat;
-	color: #fff;
+	color: #000;
+	font-family: 'Philosopher', sans-serif;
 }
 
 #profile-pic {
-	width: 25%;
+	width: 100%;
 	border-radius: 25%;
 	padding: 24px;
-	float: left;
+	margin: -25px 0 0 -30px;
 }
 
-#first-paragraph {
-	background: #0D7291;
-	padding: 24px;
-	border-radius: 25%;
+.about {
+
 }
 
+.major {
+
+}
+
+#footer {
+
+}
 
 
 
