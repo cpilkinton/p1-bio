@@ -1,6 +1,6 @@
 /* Your Website Styles */
 header {
-	background: #1A4960;
+	background: #2B4561;
 	color: #CFCFCF;
 	font-family: 'Philosopher', sans-serif;
 	font-size: 25px;
@@ -16,6 +16,10 @@ body {
 	font-family: 'Philosopher', sans-serif;
 }
 
+h2 {
+	font-size: 30px;
+}
+
 #profile-pic {
 	width: 100%;
 	border-radius: 25%;
@@ -24,16 +28,48 @@ body {
 }
 
 .about {
-
+	
 }
 
 .major {
-
+	
 }
 
-#footer {
-
+footer {
+	background: #306B5A;
+	padding-right: 500px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-size: 16.5px;
 }
+
+a {
+	color: #CFCFCF;
+	text-decoration: none;
+	font-family: 'Philosopher', sans-serif;
+	padding: 0 0 0 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
